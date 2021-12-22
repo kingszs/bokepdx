@@ -1,0 +1,25 @@
+{
+  "name": "pdx",
+  "version": "1.0.0",
+  "author": "pdx",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "mime": "^2.4.4",
+    "path": "^0.12.7",
+    "qiniu": "^7.3.0",
+    "vuepress": "^1.8.2",
+    "vuepress-theme-reco": "1.6.10"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "vue-class-component": "^7.2.3"
+  },
+  "description": "pdx",
+  "main": "index.js",
+  "repository": "https://github.com/kingszs/scbl.git",
+  "license": "MIT"
+}
