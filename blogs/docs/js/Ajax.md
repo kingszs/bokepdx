@@ -1,3 +1,22 @@
+---
+title: Ajax🔚
+date: 2021-12-28
+cover: https://pan.zealsay.com/mweb/blog/WechatIMG6.png
+tags:
+  - js
+  - ajax
+categories:
+  - 技术笔记
+  - js相关技术
+---
+
+::: tip 介绍
+Ajax 相关介绍<br>
+简单的教程
+:::
+
+<!-- more -->
+
 # Ajax
 
 > 前言
