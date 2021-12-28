@@ -10,7 +10,7 @@ categories:
 ---
 
 ::: tip 介绍
-简答介绍 uniapp 相关基础知识点<br>
+简单介绍 uniapp 相关基础知识点<br>
 简单的教程
 :::
 
